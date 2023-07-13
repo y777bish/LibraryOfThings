@@ -11,7 +11,7 @@ NFC cards or key rings to authenticate users and other technologies that will en
 
 Simply put- not everything we use can be in digital version. If we count tools such as keyboard cleaner, why should everyone have one? We can basically share it among us but we need to manage it somehow.
 
-### Got and idea?
+### Got any idea?
 
 This project is always open for some external advices. This is a social open-source project so don't bother to inform us or to make pull requests if you want to improve something.
 
