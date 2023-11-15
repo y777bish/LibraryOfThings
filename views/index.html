@@ -4,12 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home Page</title>
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <div>
-    <h1>Welcome to the Home Page</h1>
-    <button onclick="redirectToLogin()">Login</button>
+    <header>
+      <h1>Welcome to the Home Page</h1>
+    </header>
   </div>
+
+  <section id="main-content">
+    <div>
+      <button onclick="redirectToLogin()">Login</button>
+    </div>
+  </section>
 
   <script>
     function redirectToLogin() {
